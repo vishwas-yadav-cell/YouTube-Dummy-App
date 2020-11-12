@@ -49,6 +49,20 @@ const RecommendedVideos = () => {
                         />
                     })
                 }
+                
+                {
+                    Data.map((d)=>{
+                       return <VideoCard 
+                            thumbNail={d.thumbNail}
+                            channelImage={d.channelImage}
+                            videoTitle={d.videoTitle}
+                            channelName={d.channelName}
+                            verified={d.verified}
+                            views={d.views}
+                            timeStamp={d.timeStamp}
+                        />
+                    })
+                }
             </div>
         </div>
     );
