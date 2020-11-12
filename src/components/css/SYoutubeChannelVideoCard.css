@@ -1,0 +1,28 @@
+.sYoutubeChannelVideoCard{
+    display: flex;
+    margin: 20px 5px 5px 0;
+    cursor: pointer;
+}
+
+.sYoutubeChannelVideoCard > img {
+    width: 340px;
+    margin-right: 10px;
+}
+
+.sYoutubeChannelVideoCard > .sYoutubeChannelVideoCard_text > .channelLNV {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sYoutubeChannelVideoCard > .sYoutubeChannelVideoCard_text > .channelLNV > .channelLogo {
+    height: 26px;
+    width: 26px;
+    margin-right: 10px;
+}
+
+.sYoutubeChannelVideoCard > .sYoutubeChannelVideoCard_text > .channelLNV > .verifiedIcon {
+    font-size: small;
+    margin-left: 5px;
+}

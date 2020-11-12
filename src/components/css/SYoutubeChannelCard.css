@@ -1,0 +1,35 @@
+.sYoutubeChannelCard {
+    display: flex;
+    width: 80%;
+    align-items:center;
+}
+
+.sYoutubeChannelCard > .channelLogo{
+    height: 140px;
+    width: 140px;
+    margin: 5px 120px 5px 80px;
+    cursor: pointer;
+}
+
+.sYoutubeChannelCard > .sYoutubeChannelCard_text {
+    cursor: pointer;
+}
+
+.sYoutubeChannelCard > .sYoutubeChannelCard_text > h3 {
+    display: flex;
+    align-items:center;
+    color: black !important;
+    font-size:18px !important;
+}
+
+.sYoutubeChannelCard > .sYoutubeChannelCard_text > h3 > .verifiedIcon {
+    margin-left: 5px;
+    color: #606060;
+    font-size: medium !important;
+}
+
+.sYoutubeChannelCard > .sYoutubeChannelCard_text > h3,p {
+    color: #606060;
+    font-size: small;
+    margin-bottom: 10px;
+}
