@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YouTube-Dummy-App/static/css/main.b59937be.chunk.css",
+    "main.js": "/YouTube-Dummy-App/static/js/main.7a8fcdf4.chunk.js",
+    "main.js.map": "/YouTube-Dummy-App/static/js/main.7a8fcdf4.chunk.js.map",
+    "runtime-main.js": "/YouTube-Dummy-App/static/js/runtime-main.d7101727.js",
+    "runtime-main.js.map": "/YouTube-Dummy-App/static/js/runtime-main.d7101727.js.map",
+    "static/js/2.197de2ac.chunk.js": "/YouTube-Dummy-App/static/js/2.197de2ac.chunk.js",
+    "static/js/2.197de2ac.chunk.js.map": "/YouTube-Dummy-App/static/js/2.197de2ac.chunk.js.map",
+    "index.html": "/YouTube-Dummy-App/index.html",
+    "static/css/main.b59937be.chunk.css.map": "/YouTube-Dummy-App/static/css/main.b59937be.chunk.css.map",
+    "static/js/2.197de2ac.chunk.js.LICENSE.txt": "/YouTube-Dummy-App/static/js/2.197de2ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7101727.js",
+    "static/js/2.197de2ac.chunk.js",
+    "static/css/main.b59937be.chunk.css",
+    "static/js/main.7a8fcdf4.chunk.js"
+  ]
+}
